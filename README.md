@@ -5,7 +5,9 @@
 
 
 - 📫 How to reach me ...
-
+Linkedin : www.linkedin.com/in/anik26
+Github   : https://github.com/aniklog
+E-mail   : aniklog@gmail.com
 
 
 <!---
