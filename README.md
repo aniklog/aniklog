@@ -7,6 +7,6 @@ Open to contributing to ML/DL open-source projects and collaborating on innovati
 
 📫 Let's Connect:
 
-🌐 LinkedIn
-💻 GitHub
-📧 aniklog@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anik26)  
+- 💻 [GitHub](https://github.com/aniklog)  
+- 📧 aniklog@gmail.com  
